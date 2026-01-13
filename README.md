@@ -125,12 +125,12 @@ plot: short movie plot description
 
 ## Project Structure
 
+```text
 movie-recommendation-system/
 ├── app.py
 ├── preprocessing.py
 ├── requirements.txt
 ├── README.md
-
 
 ---
 
