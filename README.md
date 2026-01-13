@@ -128,10 +128,13 @@ plot: short movie plot description
 ```text
 movie-recommendation-system/
 ├── app.py
-├── preprocessing.py
 ├── requirements.txt
 ├── README.md
-
+├── data/
+│ └── movv.csv
+└── utils/
+└── preprocessing.py
+```
 ---
 
 ## Installation and Usage
