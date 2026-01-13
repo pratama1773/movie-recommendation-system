@@ -157,6 +157,6 @@ streamlit run app.py
 
 ## Author
 
-Indra Pratama
-Muhammad Dzikri Multazam
-Ridho Fathoni Zidan
+- Indra Pratama
+- Muhammad Dzikri Multazam
+- Ridho Fathoni Zidan
