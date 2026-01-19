@@ -149,7 +149,7 @@ if "language" not in st.session_state:
 from utils.preprocessing import load_and_preprocess_data
 
 try:
-    data = load_and_preprocess_data("data/movv.csv", sep=';', encoding='utf-8')
+    data = load_and_preprocess_data("data/movie.csv", sep=';', encoding='utf-8')
     movies       = data['movies']
     cosine_sim   = data['cosine_sim']
     all_genres   = data['all_genres']
